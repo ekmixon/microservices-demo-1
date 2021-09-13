@@ -13,7 +13,7 @@
     "dependencies": {
     },
     "devDependencies": {
-        "dredd": "1.5.0",
+        "dredd": "4.7.0",
         "mongodb": "",
 	"mysql": ""
     }
